@@ -18,6 +18,6 @@ This program has gone through many versions, most notably:
 
 Use these commands to load the GUI (absurdly large, i needed a 4K ultrawide to show in a linux terminal, use vscode instead)
 
-devmode
-de load largegui
-load
+1. devmode 
+2. de load largegui
+3. load
