@@ -21,3 +21,6 @@ Use these commands to load the GUI (absurdly large, i needed a 4K ultrawide to s
 1. devmode 
 2. de load largegui
 3. load
+
+
+(i might release the legacy geany editions in a seperate repo)
